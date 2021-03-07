@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "COSIQ"
+title                    : "JournalClub"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "cosiq"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "cosiq"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Numbers** don't lie."
+  bio              : "**NUMBERS** don't lie."
   location         : "Bay Area / NYC"
   email            :
   links:
